@@ -6,7 +6,9 @@ This repository is for Vivek and Russ to share files.  Nothing ready for others 
 
 Vivek:
    concondance_n  shows development of concordance from near the beginning to today ( date on commit )  You should work with
-   highest _n, currently _2
+   highest _n, currently _2  version 3 is in the works, introduces classes
+   
+   i forgot the file reviewing things like lists, now here.
    
    the notebook is in the ipython sub directory.
    
